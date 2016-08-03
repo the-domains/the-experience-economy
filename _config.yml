@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.13858959660865366
 name: The Experience Economy
+navigation:
+  - name: About this blog
+    id: 5c36582d-5755-4ce5-b610-6f1b4c367de2
+    type: content
 title: The Experience Economy
 description: 'Human Centred, Design-Led, Sustainably Delivered'
