@@ -1,4 +1,3 @@
-layout_spectrum: 0.13858959660865366
 typography_spectrum: 0.8452355128247291
 color:
   brandStrength: 0.5368711098562926
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.13858959660865366
 name: The Experience Economy
 title: The Experience Economy
+description: 'Human Centred, Design-Led, Sustainably Delivered'
