@@ -6,9 +6,10 @@ color:
   saturation: 0.20924500795081258
   rhythmicContrast: 0.9163634169381112
   brandColors:
-    - '#FBFAE6'
-    - '#896863'
-    - '#382A4D'
-    - '#C19477'
-    - '#CAC0B6'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: The Experience Economy
+title: The Experience Economy
