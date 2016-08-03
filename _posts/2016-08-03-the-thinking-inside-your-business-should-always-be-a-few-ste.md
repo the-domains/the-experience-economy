@@ -1,22 +1,19 @@
 ---
-datePublished: '2016-08-03T17:38:23.197Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/be82546c-5032-4abe-9371-910efc950c17.jpg
+datePublished: '2016-08-03T17:38:43.361Z'
 author: []
 via: {}
-dateModified: '2016-08-03T17:37:52.101Z'
+dateModified: '2016-08-03T17:38:42.773Z'
 title: ''
 publisher: {}
 description: >-
   The thinking inside your business should always be a few steps ahead of where
   the market is at and so that is why I feel comfortable making this statement,
   which whilst not 100% true right now, is fast on it’s way to becoming so...
-starred: false
 sourcePath: >-
   _posts/2016-08-03-the-thinking-inside-your-business-should-always-be-a-few-ste.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-thinking-inside-your-business-should-always-be-a-few-ste/index.html
 _type: MediaObject
 
 ---
